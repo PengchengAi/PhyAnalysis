@@ -19,4 +19,4 @@ Then, apply cos to x, and we get y2 and its probability distribution:
 
 Notice that these two probability distributions are nearly the same, but data points corresponding to the peak are different.
 
-(For example, for y1, x=0.5*pi corresponds to y1=1, but for y2, x=0*pi corresponds to y2=1)
+(For example, for y1, x=0.5\*pi corresponds to y1=1, but for y2, x=0\*pi corresponds to y2=1)
